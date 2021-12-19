@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://twitter.com/ErikEJ"><img src="https://img.shields.io/twitter/follow/ErikEJ"></a>
 </p>
+<p align="center">
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+</p>
 <p></br></p>
 <p align="center">
   I :heart: Open Source
