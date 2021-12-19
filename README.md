@@ -10,7 +10,3 @@
 <p align="center">
 <a href="https://stackoverflow.com/users/183934/erikej" target="_blank"><img alt="StackOverflow user information"
 src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/183934" ></a>
-</p><p></br></p>
-<p align="center">
-  I :heart: Open Source
-</p>
