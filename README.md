@@ -8,9 +8,9 @@
   <a href="https://twitter.com/ErikEJ"><img src="https://img.shields.io/twitter/follow/ErikEJ"></a>
 </p>
 <p align="center">
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
-</p>
-<p></br></p>
+<a href="https://stackoverflow.com/users/183934/erikej" target="_blank"><img alt="StackOverflow user information"
+src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/183934" ></a>
+</p><p></br></p>
 <p align="center">
   I :heart: Open Source
 </p>
